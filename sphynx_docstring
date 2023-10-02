@@ -1,0 +1,13 @@
+# PANDAS DOCSTRING FORMAT
+# https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html
+
+"""[Summary]
+
+:param [ParamName]: [ParamDescription], defaults to [DefaultParamVal]
+:type [ParamName]: [ParamType](, optional)
+...
+:raises [ErrorType]: [ErrorDescription]
+...
+:return: [ReturnDescription]
+:rtype: [ReturnType]
+"""
